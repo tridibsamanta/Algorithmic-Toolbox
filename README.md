@@ -9,7 +9,7 @@ A repository containing solution to the programming assignments given in the "Al
 - [Week 5](https://github.com/tridibsamanta/Algorithmic-Toolbox/tree/master/Week%205)
 - [Week 6](https://github.com/tridibsamanta/Algorithmic-Toolbox/tree/master/Week%206)
 
-:link: [Click here](https://www.coursera.org/learn/algorithmic-toolbox) to check out the course..
+:link: [Click here](https://www.coursera.org/learn/algorithmic-toolbox) to check out the course.
 
 
 ***Contributed with :blue_heart: by Tridib***
