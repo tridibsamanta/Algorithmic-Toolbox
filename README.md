@@ -1,6 +1,6 @@
 # Algorithmic Toolbox
 
-A repository containing solution to the programming assignments given in the "Algorithmic Toolbox" course offered by University of California San Diego, National Research University Higher School of Economics.
+A repository containing solution to the programming assignments given in the "Algorithmic Toolbox" course offered by University of California San Diego, National Research University Higher School of Economics..........
 
 - [Week 1](https://github.com/tridibsamanta/Algorithmic-Toolbox/tree/master/Week%201)
 - [Week 2](https://github.com/tridibsamanta/Algorithmic-Toolbox/tree/master/Week%202)
